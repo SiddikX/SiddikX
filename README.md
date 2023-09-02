@@ -3,18 +3,17 @@
 
 - 🌱 I’m currently learning **ASP.NET**
 
-- 👨‍💻 All of my projects are available at [https://siddikx.github.io/](https://siddikx.github.io/)
+- 👨‍💻 All of my projects are available at [portfolio](https://siddikx.github.io/)
 
 - 💬 Ask me about **C#, Python, OOP, MySQL**
 
 - 📫 How to reach me **siddik.iitju@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12X5sJGfWdMHsaPSZSY0EddHctEUac4xq/view?usp=sharing](https://drive.google.com/file/d/12X5sJGfWdMHsaPSZSY0EddHctEUac4xq/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/12X5sJGfWdMHsaPSZSY0EddHctEUac4xq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/siddikx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siddikx/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/siddikx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/siddikx/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
