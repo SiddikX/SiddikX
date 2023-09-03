@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm S. M. Siddikur Rahman</h1>
-<h3 align="center">A .NET developer who is passionate about creating efficient and impactful software solutions.</h3>
+<h3>A .NET developer who is passionate about creating efficient and impactful software solutions.</h3>
 
 - 🌱 I’m currently learning **ASP.NET**
 
