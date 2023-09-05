@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C#, Python, OOP, MySQL**
 
-- 📫 How to reach me **siddik.iitju@gmail.com**
+- 📫 Email me at **siddik.iitju@gmail.com**
 
 - 📄 Know about my rofessional background and experience in my [resume](https://drive.google.com/file/d/12X5sJGfWdMHsaPSZSY0EddHctEUac4xq/view?usp=sharing)
 
