@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm S. M. Siddikur Rahman</h1>
-<h3>A .NET developer who is passionate about creating efficient and impactful software solutions.</h3>
+<h3>A passionate .NET developer who is on his journey to create efficient and impactful software solutions.</h3>
 
 - 🌱 I’m currently learning **ASP.NET**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://siddikx.github.io/)
+- 👨‍💻 All of my projects are available at my [portfolio](https://siddikx.github.io/) website.
 
 - 💬 Ask me about **C#, Python, OOP, MySQL**
 
 - 📫 How to reach me **siddik.iitju@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/12X5sJGfWdMHsaPSZSY0EddHctEUac4xq/view?usp=sharing)
+- 📄 Know about my rofessional background and experience in my [resume](https://drive.google.com/file/d/12X5sJGfWdMHsaPSZSY0EddHctEUac4xq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
