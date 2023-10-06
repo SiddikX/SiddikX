@@ -15,28 +15,24 @@
 		</tr>
 	</table>
 </div>
+<br>
 
-<br>
-<br>
+<!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Engineering+Student;Problem+Solving;Communication;Innovation&center=true&width=500&height=50"></a>
 </p>
 
 <!-- img for right side -->
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif"/>
+<img align="right" alt="Coding" max-width="400" margin-top="5px" src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif"/>
 
 <!-- ### Profile Visitors  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sid-rahman&label=Profile%20views&color=0e75b6&style=flat" alt="sid-rahman" /> </p>
 
 - 🌱 I’m currently learning **ASP.NET**
-
-- 👨‍💻 All of my projects are available at my [portfolio](https://sid-rahman.github.io/) website.
-
+- 👨‍💻 All of my projects are available at [portfolio](https://sid-rahman.github.io/)
 - 💬 Ask me about **C#, Python, OOP, MySQL**
-
 - 📫 Email me at **siddik.iitju@gmail.com**
-
-- 📄 Know about my rofessional background and experience in my [resume](https://drive.google.com/file/d/12X5sJGfWdMHsaPSZSY0EddHctEUac4xq/view?usp=sharing)
+- 📄 Know about my rofessional background [resume](https://drive.google.com/file/d/12X5sJGfWdMHsaPSZSY0EddHctEUac4xq/view?usp=sharing)
 
 <br/>
 
@@ -68,3 +64,5 @@ These are the tools and languages that I have worked with and have experience ab
 
 <!-- ### LeetCode  -->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/siddikx?theme=dark&font=Noto%20Sans%20Old%20Italic)
+<br/>
+<img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://leetcard.jacoblin.cool/siddikx?theme=dark&font=Noto%20Sans%20Old%20Italic" alt="LeetCode Stats">
