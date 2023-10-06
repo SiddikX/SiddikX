@@ -36,15 +36,25 @@
 - 📫 Email me at **siddik.iitju@gmail.com**
 - 📄 Know about my rofessional background [resume](https://drive.google.com/file/d/12X5sJGfWdMHsaPSZSY0EddHctEUac4xq/view?usp=sharing)
 
-<br/>
-
 ### Connect with me:
+<div align="left">
+	<table>
+		<tr>
+			<td><a href="https://www.linkedin.com/in/siddik-iitju">
+      <img alt="Imtiaj's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+      <td>
+			<td><a href="https://www.instagram.com/lucid.sid">
+      <img alt="Imtiaj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+      </td>
+      </tr>
+	</table>
+</div>
 
 <a href="https://www.linkedin.com/in/siddik-iitju">
-  <img style="color: white" alt="Imtiaj's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img alt="Imtiaj's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/lucid.sid">
-  <img style="color: white" alt="Imtiaj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img alt="Imtiaj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/instagram.svg" />
 </a>
 <br/>
 
