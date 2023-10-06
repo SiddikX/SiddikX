@@ -25,7 +25,7 @@
 </p>
 
 <!-- img for right side -->
-<img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif"/>
+<img width="50%" align="center" src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif"/>
 
 <!-- ### Profile Visitors  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sid-rahman&label=Profile%20views&color=0e75b6&style=flat" alt="sid-rahman" /> </p>
@@ -40,22 +40,20 @@
 <div align="left">
 	<table>
 		<tr>
-			<td><a href="https://www.linkedin.com/in/siddik-iitju">
-      <img alt="Imtiaj's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+			<td><<a href="https://linkedin.com/in/https://www.linkedin.com/in/siddikx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siddikx/" width="22" /></a>
       </td>
-			<td><a href="https://www.instagram.com/lucid.sid">
-      <img alt="Imtiaj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+			<td><a href="https://instagram.com/lucid.sid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucid.sid" width="22" /></a>
       </td>
       </tr>
 	</table>
 </div>
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/siddikx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siddikx/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/siddikx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siddikx/" width="22" /></a>
 
-<a href="https://instagram.com/lucid.sid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucid.sid" height="30" width="40" /></a>
+<a href="https://instagram.com/lucid.sid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucid.sid" width="22" /></a>
 
-<a href="https://www.leetcode.com/siddikx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siddikx" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/siddikx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siddikx" width="22" /></a>
 
 <!--
 <a href="https://fb.com/fakeplastictreee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fakeplastictreee" height="30" width="40" /></a>
