@@ -21,7 +21,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Engineering+Student;Problem+Solving;Communication;Innovation&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Tech+Enthusiast;Problem+Solver;Innovative;Creative&center=true&width=500&height=50"></a>
 </p>
 
 <!-- img for right side -->
@@ -36,13 +36,15 @@
 - 📫 Email me at **siddik.iitju@gmail.com**
 - 📄 Know about my rofessional background [resume](https://drive.google.com/file/d/12X5sJGfWdMHsaPSZSY0EddHctEUac4xq/view?usp=sharing)
 
+<!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 ### Connect with me:
+
 <div align="left">
 	<table>
 		<tr>
-			<td><a href="https://linkedin.com/in/https://www.linkedin.com/in/siddikx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siddikx/" width="22" /></a>
+			<td><a href="https://linkedin.com/in/https://www.linkedin.com/in/siddikx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siddikx/" width="30" /></a>
       </td>
-			<td><a href="https://instagram.com/lucid.sid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucid.sid" width="22" /></a>
+			<td><a href="https://instagram.com/lucid.sid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucid.sid" width="30" /></a>
       </td>
       <!--
       <td><a href="https://fb.com/fakeplastictreee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fakeplastictreee" width="22" /></a>
