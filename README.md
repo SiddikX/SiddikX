@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm S. M. Siddikur Rahman</h1>
+<h1 align="center">Hi, I'm S. M. Siddikur Rahman</h1>
 <h3 align="center">A passionate .NET developer who is on his journey to create efficient and impactful software solutions.</h3>
 
+<!-- profile-technology-icons -->
+<!-- https://marwin1991.github.io/profile-technology-icons/ -->
 <div align="center">
 	<table>
 		<tr>
@@ -23,7 +25,7 @@
 </p>
 
 <!-- img for right side -->
-<img align="right" alt="Coding" max-width="400" src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif"/>
+<img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif"/>
 
 <!-- ### Profile Visitors  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sid-rahman&label=Profile%20views&color=0e75b6&style=flat" alt="sid-rahman" /> </p>
@@ -39,10 +41,10 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/siddik-iitju">
-  <img align="left" alt="Imtiaj's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img style="color: white" alt="Imtiaj's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/lucid.sid">
-  <img align="left" alt="Imtiaj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img style="color: white" alt="Imtiaj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br/>
 
@@ -63,4 +65,5 @@ These are the tools and languages that I have worked with and have experience ab
 <br/> <br/>
 
 <!-- ### LeetCode  -->
-<img align="center" src="https://leetcard.jacoblin.cool/siddikx?theme=dark&font=Noto%20Sans%20Old%20Italic" alt="LeetCode Stats">
+<!-- https://leetcard.jacoblin.cool/ -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/siddikx?theme=nord&font=Noto%20Sans)
