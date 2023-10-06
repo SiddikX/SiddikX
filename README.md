@@ -25,7 +25,7 @@
 </p>
 
 <!-- img for right side -->
-<img width="50%" align="center" src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif"/>
+<img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif"/>
 
 <!-- ### Profile Visitors  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sid-rahman&label=Profile%20views&color=0e75b6&style=flat" alt="sid-rahman" /> </p>
@@ -40,31 +40,21 @@
 <div align="left">
 	<table>
 		<tr>
-			<td><<a href="https://linkedin.com/in/https://www.linkedin.com/in/siddikx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siddikx/" width="22" /></a>
+			<td><a href="https://linkedin.com/in/https://www.linkedin.com/in/siddikx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siddikx/" width="22" /></a>
       </td>
 			<td><a href="https://instagram.com/lucid.sid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucid.sid" width="22" /></a>
       </td>
+      <!--
+      <td><a href="https://fb.com/fakeplastictreee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fakeplastictreee" width="22" /></a>
+      </td>
+      <td><a href="https://twitter.com/siddik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siddik" width="22" /></a>
+      </td>
+      <td><a href="https://www.youtube.com/c/siddik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="siddik" width="22" /></a>
+      </td>
+      -->
       </tr>
 	</table>
 </div>
-
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/siddikx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siddikx/" width="22" /></a>
-
-<a href="https://instagram.com/lucid.sid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucid.sid" width="22" /></a>
-
-<a href="https://www.leetcode.com/siddikx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siddikx" width="22" /></a>
-
-<!--
-<a href="https://fb.com/fakeplastictreee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fakeplastictreee" height="30" width="40" /></a>
-
-<a href="https://twitter.com/siddik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siddik" height="30" width="40" /></a>
-
-<a href="https://www.youtube.com/c/siddik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="siddik" height="30" width="40" /></a>
-
--->
-
-</p>
 
 ### 🛠 &nbsp;Tech Stack
 
