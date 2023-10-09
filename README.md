@@ -12,8 +12,6 @@
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></td>
-			<!--<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></td>
-			-->
 			<td><img width="50" src="https://iconape.com/wp-content/files/xm/353339/png/microsoft-sql-server-logo.png" alt="SQL Server" title="SQL Server"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" title=".NET Core"/></td>
@@ -62,9 +60,10 @@
 </div>
 
 <!-- https://ileriayo.github.io/markdown-badges -->
+<!-- https://simpleicons.org/ -->
 ### 🛠 &nbsp;Tech Stack
 
-These are the tools and languages that I have worked with and have experience about using them.
+These are the tools and technologies that I have worked with and have experience about using them.
 
 ![C#](https://img.shields.io/badge/-C%20Sharp-05122A?style=flat&logo=c-sharp&logoColor=512BD4)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -72,17 +71,17 @@ These are the tools and languages that I have worked with and have experience ab
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![.Net](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net&logoColor=512BD4)\
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![MicrosoftSQLServer](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927)\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoCoolor=181717)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown&logoColor=000000)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-05122A?style=flat&logo=visual-studio&logoColor=5C2D91)\
-![.Net](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net&logoColor=512BD4)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-05122A?style=flat&logo=visual-studio&logoColor=5C2D91)
 
-<br/> <br/>
+<br/>
 
 <!-- ### LeetCode  -->
 <!-- https://leetcard.jacoblin.cool/ -->
