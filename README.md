@@ -18,12 +18,11 @@
 		</tr>
 	</table>
 </div>
-<br>
 
 <!-- Typing animation -->
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Tech+Enthusiast;Problem+Solver;Innovative;Creative&center=true&width=600&height=60"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Tech+Enthusiast;Problem+Solver;Innovative;Creative&center=true&width=600&height=50"></a>
 </p>
 
 <!-- Banner gif image -->
