@@ -21,13 +21,16 @@
 <br>
 
 <!-- Typing animation -->
+<!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Tech+Enthusiast;Problem+Solver;Innovative;Creative&center=true&width=500&height=50"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Tech+Enthusiast;Problem+Solver;Innovative;Creative&center=true&width=600&height=60"></a>
 </p>
 
 <!-- Banner gif image -->
 <!--https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif -->
+<a href="#">
 <img src="https://github.com/sid-rahman/sid-rahman/blob/main/ezgif.com-optimize.gif"/>
+</a>
 
 <!-- ### Profile Visitors  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sid-rahman&label=Profile%20views&color=0e75b6&style=flat" alt="sid-rahman" /> </p>
