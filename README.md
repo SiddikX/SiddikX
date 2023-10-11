@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I am S. M. Siddikur Rahman</h1>
+<h1 align="center">Hi there, I'm S. M. Siddikur Rahman</h1>
 <h3 align="center">A passionate software developer specializing in .NET Framework. I have experieces with the technologies listed below.</h3>
 
 
