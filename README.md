@@ -31,7 +31,10 @@
 </a>
 
 <!-- ### Profile Visitors  -->
+![sid-rahman](https://komarev.com/ghpvc/?username=sid-rahman&color=brightgreen)
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sid-rahman&label=Profile%20views&color=0e75b6&style=flat" alt="sid-rahman" /> </p>
+-->
 
 - 🌱 I’m currently learning **ASP.NET**
 - 👨‍💻 All of my projects are available at [portfolio](https://sid-rahman.github.io/)
