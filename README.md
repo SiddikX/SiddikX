@@ -5,19 +5,16 @@
 <!-- profile-technology-icons -->
 <!-- https://marwin1991.github.io/profile-technology-icons/ -->
 <div align="center">
-	<table>
-		<tr>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></td>
-			<td><img width="50" src="https://iconape.com/wp-content/files/xm/353339/png/microsoft-sql-server-logo.png" alt="SQL Server" title="SQL Server"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" title=".NET Core"/></td>
-		</tr>
-	</table>
+<img width="70" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/>
+<img width="70" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
+<img width="70" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
+<img width="70" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
+<img width="70" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
+<img width="70" src="https://iconape.com/wp-content/files/xm/353339/png/microsoft-sql-server-logo.png" alt="SQL Server" title="SQL Server"/>
+<img width="70" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
+<img width="70" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" title=".NET Core"/>
 </div>
+<br/>
 
 <!-- Typing animation -->
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
@@ -45,10 +42,10 @@
 
 <div align="left">
 	<table>
-		<tr>
-			<td><a href="https://linkedin.com/in/https://www.linkedin.com/in/siddikx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siddikx/" width="30" /></a>
-      </td>
-			<td><a href="https://instagram.com/lucid.sid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucid.sid" width="30" /></a>
+	<tr>
+	<td><a href="https://linkedin.com/in/https://www.linkedin.com/in/siddikx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siddikx/" width="25" /></a>
+        </td>
+	<td><a href="https://instagram.com/lucid.sid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucid.sid" width="25" /></a>
       </td>
       <!--
       <td><a href="https://fb.com/fakeplastictreee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fakeplastictreee" width="22" /></a>
@@ -58,7 +55,7 @@
       <td><a href="https://www.youtube.com/c/siddik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="siddik" width="22" /></a>
       </td>
       -->
-      </tr>
+    	</tr>
 	</table>
 </div>
 
