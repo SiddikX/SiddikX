@@ -1,5 +1,5 @@
 <h1 align="center">S. M. Siddikur Rahman</h1>
-<h3 align="center">A passionate software developer specializing in .NET Framework. I have experieces with the technologies listed below.</h3>
+<h3 align="center">A passionate software engineer specializing in ASP.NET Core. I have experieces with the technologies listed below.</h3>
 
 
 <!-- profile-technology-icons -->
